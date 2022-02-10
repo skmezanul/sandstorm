@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "chai": "^2.3.0",
-    "mailcomposer": "^0.2.12",
+    "mailcomposer": "^1.0.0",
     "mailparser": "0.5.1",
     "simplesmtp": "0.3.35",
     "spacejam": "1.2.2",
